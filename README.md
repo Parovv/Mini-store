@@ -1,1 +1,1 @@
-# Mini-store
+Первые изменения# Mini-store
